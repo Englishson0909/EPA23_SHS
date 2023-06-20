@@ -25,7 +25,7 @@ c. Instructional materials and methods (e.g., worksheet, Video clip, google tran
 d. Practice activities: individual tasks, group work 
 e. Assessment and feedback methods: recordings analyzed with Praat for formative and summative test
 f. Homework assignments: to make their own recording file with 10 sentences, which is including 5 Wh-questions and 5 Yes/no questions.    
-g. Extra resources for further practice or self-study: 
+g. Extra resources for further practice or self-study: Google Cloud Speech-to-Text
 
 5.	Incorporate technology: Integrate Praat and AI tools 
 -	Using Praat: Praat provide visual results of high and low condor clearly, so Praat can be a good tool for evaluating and improving their intonation.  
