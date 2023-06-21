@@ -22,8 +22,8 @@ The English Conversation course is designed for second-year students, aged 16 to
 
 ## 4. Sample Lesson
 - Lesson objectives: Students will be able to produce correct intonation when using wh-questions and yes/no questions.
-- Warm-up activities: words Quiz  [![Quiz]([[buly.kr/FhJd5ob](https://github.com/Englishson0909/EPA23_SHS/blob/main/Quiz.ipynb)]) & Listening dictation[listeing dictation]([Pronounce4me.ipynb]),
-video clip [![Video Description](video_thumbnail.jpg)](video_JN5bcygghLA)
+- Warm-up activities: words Quiz  [![Quiz]([[buly.kr/FhJd5ob](https://github.com/Englishson0909/EPA23_SHS/blob/main/Quiz.ipynb)]) & Listening dictation[listening dictation]([Pronounce4me.ipynb]),
+video clip [![Video Description](video_thumbnail.jpg)](videoJN5bcygghLA)
 
 - Instructional materials and methods (e.g., worksheet, Video clip, google translate, etc.)
 - Practice activities: individual tasks, group work 
