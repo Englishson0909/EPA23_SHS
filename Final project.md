@@ -22,7 +22,7 @@ The English Conversation course is designed for second-year students, aged 16 to
 
 ## 4. Sample Lesson
 - Lesson objectives: Students will be able to produce correct intonation when using wh-questions and yes/no questions.
-- Warm-up activities: words Quiz & video clip [![Video Description](video_thumbnail.jpg)](video_JN5bcygghLA)
+- Warm-up activities: words Quiz https://colab.research.google.com/github/Englishson0909/EPA23_SHS/blob/main/guessing_game.ipynb#scrollTo=1x46tBBqoTm9&line=1&uniqifier=1 & video clip [![Video Description](video_thumbnail.jpg)](video_JN5bcygghLA)
 
 - Instructional materials and methods (e.g., worksheet, Video clip, google translate, etc.)
 - Practice activities: individual tasks, group work 
@@ -40,8 +40,8 @@ The English Conversation course is designed for second-year students, aged 16 to
 2)	Appropriateness: Is the rising intonation pattern accurately use to signal yes/no questions?
 
 -	Falling intonation: Assess the presence and accuracy of falling intonation patterns
-1)	Presence: Is the falling intonation pattern consistently used? (Yes/N0)
-2)	Clarity: Does the falling pitch contour show a clear and consistent downward movement? (Yes/N)
+1)	Presence: Is the falling intonation pattern consistently used? (Yes/No)
+2)	Clarity: Does the falling pitch contour show a clear and consistent downward movement? (Yes/No)
 
 -	Grading 
 1)	Excellent: To demonstrate consistent presence, appropriateness, in the case of rising intonation, or consistent presence, and clarity in the case of falling intonation
