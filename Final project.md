@@ -23,7 +23,7 @@ The English Conversation course is designed for second-year students, aged 16 to
 ## 4. Sample Lesson
 - Lesson objectives: Students will be able to produce correct intonation when using wh-questions and yes/no questions.[WD] 
  (https://github.com/Englishson0909/EPA23_SHS/blob/main/wordcloud_shape.ipynb)
-- Warm-up activities: word cloud[, guessing game (https://github.com/Englishson0909/EPA23_SHS/blob/main/guessing_game.ipynb), listen and write 
+- Warm-up activities: word cloud[, guessing game [guessing game]. (https://github.com/Englishson0909/EPA23_SHS/blob/main/guessing_game.ipynb), listen and write 
 - Instructional materials and methods (e.g., worksheet writing alibi report , Video clip, google translate, etc.)
 - Practice activities: individual tasks, group work (writng alibi report and asking questions)
 - Assessment and feedback methods: recordings analyzed with Praat for formative and summative test
